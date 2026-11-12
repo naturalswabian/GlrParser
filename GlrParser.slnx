@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Resources/">
+    <File Path="Resources/GlrParserBanner.svg" />
+    <File Path="Resources/NuGetGlrParser.png" />
+  </Folder>
+  <Folder Name="/Sources/">
+    <Project Path="Sources/GlrParser/GlrParser.csproj" />
+  </Folder>
+  <Folder Name="/Build/">
+    <File Path="Directory.Build.props" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/GlrParser.Tests/GlrParser.Tests.csproj" />
+  </Folder>
+</Solution>
