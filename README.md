@@ -1,5 +1,7 @@
 # <img src="Resources/GlrParserBanner.svg" valign="middle" height="60">&nbsp;Generalized&nbsp;LR&nbsp;Parser
 
+xxx
+
 A GLR parser (Generalized Left-to-Right Parser) is an extension of standard LR parsing designed to handle
 non-deterministic and ambiguous context-free grammars. This implementation allows the dynamic definition of
 grammars without the need of generating code. Grammars can be fully defined by an object model leaving the
